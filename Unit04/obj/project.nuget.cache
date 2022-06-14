@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYX8dwJ0RAqQ6IiPuHQRN21dIP3Y2C/tFyxcaBfonlU1kwHg4YSM+KWggIm8i4XnkGGSxSNeDXkmexJ8b+0phA==",
+  "success": true,
+  "projectFilePath": "/Users/edwardhyde/Desktop/cse210-student-articulate-csharp-main/Unit04/Unit04.csproj",
+  "expectedPackageFiles": [
+    "/Users/edwardhyde/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/edwardhyde/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
